@@ -1,0 +1,66 @@
+html {
+    font-family: 'Montserrat', sans-serif;
+}
+body {
+      margin: 0;
+      background-color: #efefef;
+}
+
+header {
+    color: #fff;  
+    background-color: #222;
+    
+    
+}
+
+header a {
+    transition: color 0.3s ease;
+    color: #fff;
+    text-decoration: nome;
+    
+}
+
+header a:hover {
+    color: cornflowerblue;
+}
+
+#postal {
+ border-radius: 8%;
+}
+
+header section {
+    float: right;
+    margin: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+section img{
+    border-radius: 50%;
+    float: inline-end;
+}
+
+
+footer {
+    color: #fff;  
+    background-color: #222;
+    padding: 3rem;
+}
+
+footer section {
+    float: right;
+}
+
+footer p {
+    margin: 0;
+}
+
+footer a {
+    transition: color 0.3s ease;
+    color: #fff;
+    text-decoration: nome;
+    
+}
+
+footer a:hover {
+    color: cornflowerblue;
+}
